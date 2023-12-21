@@ -48,6 +48,7 @@
     - Automatic program, cloud service deploy（自动化程序开发、云服务部署）。
 
 ## 作业代写价格:
+
 |类型|美元|人民币|
 |-----:|-----:|-----:|
 |Assignment|$60-$120|¥400-¥800|
